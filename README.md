@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jhon Hernandez</h1>
-<h3 align="center">Soy un desarrollador colombiamo con mucho entusiasmo y ganas de aprender mas.</h3>
+<h3 align="center">I am a Colombian developer with a lot of enthusiasm and desire to learn more.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhondavidhernandezcampus&label=Profile%20views&color=0e75b6&style=flat" alt="jhondavidhernandezcampus" /> </p>
 
