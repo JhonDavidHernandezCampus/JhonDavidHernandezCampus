@@ -8,11 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=jhondavidhernandezcampus&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jhondavidhernandezcampus&theme=onedark&margin-w=10&margin-h=10" alt="GitHub trophies" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://twitter.com/johndavidhern10" target="_blank">
